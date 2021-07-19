@@ -18,3 +18,4 @@ However, you should be still able to see all the problems and solutions whithin 
 
 Thank you very much for visiting the page and enjoy the reading!
 
+*YD stands for Yandex Practicum, company name for the courses
