@@ -1,11 +1,11 @@
 # Project
 *High level analysis of (in)solvency factors for the credit department of a bank*
 
-## Problem/Task
+### Problem/Task
 Based on customer solvency data, investigate whether the following factors influence the likelihood of repaying a loan on time
 
-## Skills
+### Skills
 Data Preprocessing, lemmatization, categorization, handling missing values
 
-## Stack
+### Stack
 pandas, numpy, pymystem3
