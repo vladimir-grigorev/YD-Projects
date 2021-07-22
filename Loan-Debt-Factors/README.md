@@ -5,7 +5,7 @@
 Based on customer solvency data, investigate factors influencing the likelihood of repaying a loan on time
 
 ### Skills
-Data Preprocessing, lemmatization, categorization, handling missing values
+Data preprocessing, lemmatization, categorization, handling missing values
 
 ### Stack
 pandas, numpy, pymystem3
