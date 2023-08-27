@@ -8,7 +8,7 @@ You are welcome here anyways!
 This repository is a portfolio of projects accomplished within the 8-month course in Data Science offered by Russian Big Tech *Yandex*.
 
 The portfolio intends to demostrate three things:
-1. Coding experience covering several topics - from Exploratory Data Analysis to  Deep Learning Cumputer Vision.
+1. Coding experience covering several topics - from Exploratory Data Analysis to building Machine Learning models
 2. Cleanliness and transparency of code writing
 3. Aspiration for solving problems with Data
 
